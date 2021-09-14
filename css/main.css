@@ -340,7 +340,6 @@ div{box-sizing: border-box;}
         display: flex;
     }
     .info ul li{
-        margin-right: 3vw;
         line-height: 5vw;
         font-size: 2.5vw;
         margin: 2vw 3vw 2vw 3vw;
@@ -366,7 +365,7 @@ div{box-sizing: border-box;}
     }
     .youtube a{
         color: #3d3d3d;
-        font-size: 2.5vw;
+        font-size: 2.3vw;
     }
     .youtube a span{display: none;}
     
